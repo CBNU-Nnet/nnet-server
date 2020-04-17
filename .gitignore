@@ -10,3 +10,4 @@ nnet-app/src/
 # 로그 및 백업 파일
 *.log
 backup/
+db-backup.sh
