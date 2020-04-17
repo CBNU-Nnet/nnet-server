@@ -1,4 +1,12 @@
+# OS 파일
 .DS_Store
+
+# DB 환경설정 파일
 .env
+
+# 웹 소스파일 
 nnet-app/src/
+
+# 로그 및 백업 파일
 *.log
+backup/
